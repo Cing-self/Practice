@@ -9,5 +9,7 @@ public class TestMain {
         int c = a + b;
         System.out.println(a);
         System.out.println(c);
+        System.out.println("hot-fix");
     }
+
 }
