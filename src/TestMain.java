@@ -7,6 +7,6 @@ public class TestMain {
         short a = 1;
         short b = 2;
         int c = a + b;
+        System.out.println(c);
     }
-
 }
